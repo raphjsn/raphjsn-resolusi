@@ -3,4 +3,8 @@ RENCANA BELAJAR RAPHJSN
 - HTML
   * Semantic HTML
 - CSS
+  * Boostrap V5
+  * Tailwind CSS
 - JAVASCRIPT
+  * React
+  * Vue
