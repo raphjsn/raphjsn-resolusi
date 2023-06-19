@@ -1,7 +1,6 @@
 RENCANA BELAJAR RAPHJSN
 
 - HTML
-  * Basic HTML
   * Semantic HTML
 - CSS
 - JAVASCRIPT
