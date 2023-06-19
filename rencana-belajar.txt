@@ -5,6 +5,7 @@ RENCANA BELAJAR RAPHJSN
 - CSS
   * Bulma CSS
   * Tailwind CSS
+  * Bootstrap V5
 - JAVASCRIPT
   * React
   * Next JS
