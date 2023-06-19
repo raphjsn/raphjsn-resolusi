@@ -7,4 +7,5 @@ RENCANA BELAJAR RAPHJSN
   * Tailwind CSS
 - JAVASCRIPT
   * React
-  * Vue
+  * Next JS
+
